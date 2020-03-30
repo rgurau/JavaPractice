@@ -1,0 +1,12 @@
+
+[
+squid:S106)"9Replace this use of System.out or System.err by a logger.(Ù¡ï‚şÿÿÿÿ8•ÇøÀ’.
+‹ squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(Â¨•ù8õÀÕÀ’.
+Xsquid:UselessImportCheck"-Remove this unused import 'example2.Student'.(É‡Àõ8ŒûÁ’.
+[
+squid:S106*"9Replace this use of System.out or System.err by a logger.(º€ÍÑùÿÿÿÿ8äï»’.
+Zsquid:S3655*"7Call "Optional#isPresent()" before accessing the value.(º€ÍÑùÿÿÿÿ8ÚÑÉÁ’.
+ysquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ãğâˆ8ó¸»’.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ô…òúÿÿÿÿ8˜èº½’.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(õ´ º8Çûµ¼’.
