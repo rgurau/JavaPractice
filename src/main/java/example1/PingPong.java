@@ -11,7 +11,7 @@ public class PingPong {
 
         int a = returnDivResult(value, 3);
         int b = returnDivResult(value, 5);
-        if(a == 0) System.out.println("ping");
+        if(a == 0) System.out.print("ping ");
         if(b == 0) System.out.println("pong");
     }
 
